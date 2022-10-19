@@ -1,0 +1,17 @@
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\bin\Debug\netcoreapp3.1\Math Game.exe
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\bin\Debug\netcoreapp3.1\Math Game.deps.json
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\bin\Debug\netcoreapp3.1\Math Game.runtimeconfig.json
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\bin\Debug\netcoreapp3.1\Math Game.runtimeconfig.dev.json
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\bin\Debug\netcoreapp3.1\Math Game.dll
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\bin\Debug\netcoreapp3.1\Math Game.pdb
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.csproj.AssemblyReference.cache
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.csproj.GenerateResource.cache
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.AssemblyInfoInputs.cache
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.AssemblyInfo.cs
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.csproj.CoreCompileInputs.cache
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.dll
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.pdb
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math Game.genruntimeconfig.cache
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math_Game.Properties.Resources.resources
+C:\Users\joedm\OneDrive\Documents\C# Codes\Math Game\Math Game\obj\Debug\netcoreapp3.1\Math_Game.mainForm.resources
